@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhushan Sapkale
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently Persuing my bTech Degree in Computer Science & Engineering 
+- 🌱 I’m currently Persuing my BTech Degree in Computer Science & Engineering 
 - 📫 How to reach me bhushansapkale252@gmail.com
 
 <!---
